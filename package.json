@@ -1,5 +1,5 @@
 {
-  "name": "1PG-Demo",
+  "name": "Shard",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "ADAMJR#0001",
+  "author": "Shndow#7537",
   "license": "ISC",
   "dependencies": {
     "@2pg/music": "^1.1.6",
